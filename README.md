@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Developer for JPBBots
+Developer for [JPBBots](https://github.com/JPBBots)
 
-Censor Bot Contribitor
+[Censor Bot](https://github.com/JPBBots/censorbot) Contribitor
 
 Competent in JS/TS
