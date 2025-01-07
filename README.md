@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Developer for [JPBBots](https://github.com/JPBBots)
+[Competent](https://www.merriam-webster.com/dictionary/competent) in JS/TS
 
-[Censor Bot](https://github.com/JPBBots/censorbot) Contributor
-
-Competent in JS/TS
+C/C++ [fan](https://www.roguefitness.com/big-ass-fan-black-jack)
